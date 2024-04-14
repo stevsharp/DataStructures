@@ -11,6 +11,9 @@ try
     SumOfNumber sumOfNumber = new SumOfNumber();
     sumOfNumber.Test();
 
+    Factorial factorial = new Factorial();
+    factorial.Test();
+
 }
 catch (Exception ex)
 {

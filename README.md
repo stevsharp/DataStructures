@@ -1,4 +1,4 @@
-# DataStructures
+# Data Structures
 
 This repository contains implementations of various data structures in C#.
 

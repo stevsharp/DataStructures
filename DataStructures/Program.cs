@@ -1,4 +1,5 @@
 ﻿using DataStructures;
+using DataStructures.Sorting;
 
 try
 {
@@ -17,6 +18,10 @@ try
     BinarySearch binarySearch = new BinarySearch();
 
     binarySearch.Test();
+
+    SelectionSort selectionSort = new SelectionSort();
+
+    selectionSort.Test();
 
 }
 catch (Exception ex)

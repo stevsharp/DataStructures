@@ -23,6 +23,9 @@ try
 
     selectionSort.Test();
 
+    BubbleSort bubbleSort = new BubbleSort();
+    bubbleSort.Test();
+
 }
 catch (Exception ex)
 {

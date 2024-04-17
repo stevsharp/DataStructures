@@ -14,6 +14,10 @@ try
     Factorial factorial = new Factorial();
     factorial.Test();
 
+    BinarySearch binarySearch = new BinarySearch();
+
+    binarySearch.Test();
+
 }
 catch (Exception ex)
 {

@@ -8,6 +8,15 @@ Data structures are fundamental building blocks in computer science and software
 
 This repository aims to provide clear and concise implementations of commonly used data structures, along with explanations of their functionalities and use cases.
 
+## Sorting algorithms:
+
+- **Bubble Sort**: Description of Bubble Sort algorithm.
+- **Insertion Sort**: Description of Insertion Sort algorithm.
+- **Selection Sort**: Description of Selection Sort algorithm.
+- **Merge Sort**: Description of Merge Sort algorithm.
+- **Quick Sort**: Description of Quick Sort algorithm.
+- **Heap Sort**: Description of Heap Sort algorithm.
+
 ## Implemented Data Structures
 
 1. **Linked List**: Implementation of a singly linked list and a doubly linked list.

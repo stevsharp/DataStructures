@@ -29,6 +29,9 @@ try
     InsertionSort insertionSort = new InsertionSort();
     insertionSort.Test();
 
+    ShellSort shellSort = new ShellSort();
+    shellSort.Test();
+
 }
 catch (Exception ex)
 {

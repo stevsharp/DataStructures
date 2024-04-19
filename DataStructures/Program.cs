@@ -26,6 +26,9 @@ try
     BubbleSort bubbleSort = new BubbleSort();
     bubbleSort.Test();
 
+    InsertionSort insertionSort = new InsertionSort();
+    insertionSort.Test();
+
 }
 catch (Exception ex)
 {

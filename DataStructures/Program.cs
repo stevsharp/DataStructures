@@ -1,5 +1,6 @@
 ﻿using DataStructures;
 using DataStructures.Sorting;
+using DataStructures.Stack;
 
 try
 {
@@ -31,6 +32,10 @@ try
 
     ShellSort shellSort = new ShellSort();
     shellSort.Test();
+
+    Console.WriteLine("**********************************************");
+    StacksArray stacksArray = new StacksArray(10);
+    stacksArray.Test(); 
 
 }
 catch (Exception ex)

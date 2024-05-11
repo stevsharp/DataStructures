@@ -34,8 +34,14 @@ try
     shellSort.Test();
 
     Console.WriteLine("**********************************************");
+    MergeSort mergeSort = new MergeSort();
+    mergeSort.Test();
+
+    Console.WriteLine("**********************************************");
     StacksArray stacksArray = new StacksArray(10);
     stacksArray.Test(); 
+
+
 
 }
 catch (Exception ex)
